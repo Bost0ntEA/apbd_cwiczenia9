@@ -1,0 +1,6 @@
+@PrzygotowanieDoKolosa2_HostAddress = http://localhost:5057
+
+GET {{PrzygotowanieDoKolosa2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,6 +1,6 @@
 namespace PrzygotowanieDoKolosa2.Service;
 
-public class DBService
+public class DBService: IDBService
 {
     
 }
